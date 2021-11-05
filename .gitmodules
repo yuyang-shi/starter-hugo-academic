@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/yuyang-shi/yuyang-shi.github.io.git
+	branch = master
