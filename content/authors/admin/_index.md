@@ -51,7 +51,7 @@ social:
   link: https://github.com/yuyang-shi
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/yuyang-s-b2541616a
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,7 +67,7 @@ email: ""
 highlight_name: true
 ---
 
-Hi! I'm Yuyang, a 2nd year PhD student jointly supervised by [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/), [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/) and [Tom Rainforth](https://www.robots.ox.ac.uk/~twgr/). 
+Hi! I'm Yuyang, a 4th year PhD student jointly supervised by [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/), [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/) and [Tom Rainforth](https://www.robots.ox.ac.uk/~twgr/). 
 
 I am interested in probabilistic and statistical methodologies in machine learning. My current research interests include probabilistic generative models, variational inference, and Monte Carlo methods. 
 
